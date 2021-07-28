@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Floare Dor on Floare Dor</title>
+    <link>http://FloareDor.github.io/</link>
+    <description>Recent content in Floare Dor on Floare Dor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://FloareDor.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>http://FloareDor.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://FloareDor.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
